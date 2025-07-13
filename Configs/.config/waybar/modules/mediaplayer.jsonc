@@ -1,0 +1,12 @@
+{
+  "custom/mediaplayer": {
+    "exec": "hyde-shell mediaplayer",
+    "return-type": "json",
+    "format": "{0}",
+    "rotate": 0,
+    "class": "default-margin-padding",
+    "restart-interval": 1,
+    "tooltip": true,
+    "max-length": 1000
+  }
+}
