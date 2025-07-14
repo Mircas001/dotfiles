@@ -1,5 +1,5 @@
 {
-  "custom/sensorsinfo": {
+  "custom/mediaplayer": {
     "exec": "hyde-shell mediaplayer",
     "return-type": "json",
     "format": "{0}",
